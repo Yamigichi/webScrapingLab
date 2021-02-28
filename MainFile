@@ -1,5 +1,0 @@
-# BeautifulSoup module helps in web scrapping.
-# requests module helps us to download a web page
-from bs4 import BeautifulSoup
-import request
-
